@@ -1,2 +1,2 @@
 # NeighborNet
-NeighborNet Web App for Quadrant internship
+NeighborNet Web App for Quadrant internship.
